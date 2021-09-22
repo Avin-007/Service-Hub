@@ -1,0 +1,23 @@
+{
+  "name": "servicehub",
+  "version": "0.0.1",
+  "description": "Test Automation for service hub module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avin-007/service_hub.git"
+  },
+  "author": "Avin || Product Delivery Manager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avin-007/service_hub/issues"
+  },
+  "homepage": "https://github.com/Avin-007/service_hub#readme",
+  "devDependencies": {
+    "cypress": "^8.4.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
